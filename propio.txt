@@ -1,0 +1,3 @@
+hoy estamos en un nuevo intento. 
+seguimos aprendiendo git.
+pero antes de seguir en las clases vamos a precticar un poco.
