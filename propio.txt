@@ -1,3 +1,3 @@
-hoy se estara en un nuevo intento. 
-vamos a seguir aprendiendo git.
-pero antes de seguir en las clases se va a practicar un poco un poco.
+hoy estamos en un nuevo intento. 
+seguimos aprendiendo git.
+pero antes de seguir en las clases vamos a practicar un poco.
